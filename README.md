@@ -1,20 +1,24 @@
 # Odin Recipes
 
-This is my first project from **The Odin Project** curriculum. It is a basic recipe website built to demonstrate and practice foundational HTML skills, such as structuring content, linking pages, and managing project files.
+This is my first project from **The Odin Project** curriculum. It has evolved from a basic HTML structure into a beautifully styled, responsive recipe website designed to showcase foundational frontend development skills, semantic markup, and clean CSS styling.
 
 ## 🚀 Technologies Used
 
-* **HTML5:** For creating the semantic structure of the web pages.
-* **Git & GitHub:** For version control, tracking changes, and hosting the repository.
+* **HTML5:** For creating a clean, semantic structure across the homepage and recipe subpages.
+* **CSS3:** For custom styling, typography hierarchy, a curated color palette, and interactive UI components.
+* **Google Fonts:** Utilizing **Lora** for elegant serif headings and **Open Sans** for highly readable sans-serif body text.
+* **Git & GitHub:** For version control, structured commit history, and deployment via GitHub Pages.
 
 ## 🧠 Lessons Learned & Skills Demonstrated
 
-By completing this project, I have successfully applied and reinforced the following web development concepts:
+By building and styling this project, I have successfully applied and reinforced the following frontend development concepts:
 
-* **Semantic HTML Structure:** Propery utlizing headings (`<h1>`, `<h2>`), paragraphs (`<p>`), lists (`<ul>`, `<ol>`, `<li>`), and anchors (`<a>`) to make the content meaningful and readable.
-* **Relative Paths & Navigation:** Learning how to navigate directory structures using relative paths to link internal pages (`./recipes/...`) and navigate back to the home page (`../index.html`).
-* **Media Optimization:** Incorporating images with descriptive, accessible `alt` attributes and managing image presentation directly through attributes like `width`.
-* **Git Workflow:** Practicing the professional development workflow by commiting early and often with clear, meaningful commit messages.
+* **Semantic HTML Markup:** Properly utilizing structural headings (`<h1>`, `<h2>`), descriptive paragraphs (`<p>`), organized lists (`<ul>`, `<ol>`), and explicit image tags.
+* **CSS Typography & Hierarchy:** Setting clear typographic scales using `rem` units, variable font weights (`300` to `800`), and assigning deliberate fonts to separate layout roles.
+* **Curated Color Palette & Visual Identity:** Implementing a cohesive color scheme featuring an off-white background (`#fdfbf7`), dark espresso text (`#2c2520`), and a terracotta vibrant accent (`#c85a32`).
+* **Interactive UI Design:** Creating custom modern "outline" buttons for the navigation list that smoothly transition to solid states on `:hover` using CSS transitions (`ease`).
+* **Relative Paths & Directory Management:** Confidently navigating complex local folder hierarchies to link internal pages (`./recipes/...`), images (`../images/...`), and shared stylesheets (`../css/...`).
+* **Accessibility (a11y):** Writing highly descriptive, contextual `alt` text for images to ensure a great screen-reader experience.
 
 ## 🌐 Live Demo
 
